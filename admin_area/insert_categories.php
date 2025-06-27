@@ -32,7 +32,7 @@ if (isset($_POST['insert_cart'])) {
     </div>
 
     <div class="input-group w-10 mb-2 m-auto">
-        <input type="submit" class="form-control bg-info border-0 p-2 my-3" name="insert_cart"
-        value="Insert categories" aria-label="Username" aria-describedby="basic-addon1">
+        <input type="submit" class="bg-info border-0 p-2 my-3" name="insert_cart"
+        value="Insert categories">
     </div>
 </form>
